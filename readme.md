@@ -4,8 +4,14 @@
 
 * Express
 * Sequelize
+* pg
+* pg-hstore
 * ESlint
 * Prettier
+* jsonwebtoken
+* bcrypt
+* Yup
+* Multer
 * Nodemon -D
 * Sucrase -D
 

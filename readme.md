@@ -13,6 +13,8 @@
 * Yup
 * Multer
 * date-fns
+* mongoose
+* nodemailer
 * Nodemon -D
 * Sucrase -D
 

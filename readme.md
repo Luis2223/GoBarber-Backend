@@ -12,6 +12,7 @@
 * bcrypt
 * Yup
 * Multer
+* date-fns
 * Nodemon -D
 * Sucrase -D
 

@@ -15,6 +15,9 @@
 * date-fns
 * mongoose
 * nodemailer
+* express-handlebars
+* nodemailer-handlebars
+* Bee-queue
 * Nodemon -D
 * Sucrase -D
 

@@ -18,6 +18,8 @@
 * express-handlebars
 * nodemailer-handlebars
 * Bee-queue
+* Sentry
+* Youch
 * Nodemon -D
 * Sucrase -D
 

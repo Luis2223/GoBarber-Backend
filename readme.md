@@ -12,6 +12,14 @@
 * bcrypt
 * Yup
 * Multer
+* date-fns
+* mongoose
+* nodemailer
+* express-handlebars
+* nodemailer-handlebars
+* Bee-queue
+* Sentry
+* Youch
 * Nodemon -D
 * Sucrase -D
 
